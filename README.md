@@ -3,7 +3,6 @@
 
 - <b>Internship</b>
   - [Daysie Edge](https://github.com/teeramaet/daysieEdge)
--Delivery-Pathfinding-Algorithm)
 
 <h2>👨‍ Cybersecurity related Projects</h2>
 
