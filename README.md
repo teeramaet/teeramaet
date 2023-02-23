@@ -6,7 +6,7 @@
 
 <h2>👨‍ Cybersecurity related Projects</h2>
 
-<h2>📺 Blogs</h2>
+<h2>📺 Notes </h2>
 
 <h2> 🤳 Connect with me:</h2>
 
