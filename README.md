@@ -1,13 +1,15 @@
 <h1>Hi, I'm Teeramaet! <br/>
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
-- <b>Internship</b>
+- <b>Software development</b>
   - [Daysie Edge](https://github.com/teeramaet/daysieEdge)
 
 <h2>👨‍ Cybersecurity related Projects</h2>
 
 <h2>📺 Notes </h2>
-  -  [Note-taking](https://github.com/teeramaet/MySecondBrain-Note)
+
+- <b>DevOps-notes</b>
+  - [DevOps](https://github.com/teeramaet/MySecondBrain-Note)
   
 
 <h2> 🤳 Connect with me:</h2>
