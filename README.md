@@ -7,6 +7,8 @@
 <h2>👨‍ Cybersecurity related Projects</h2>
 
 <h2>📺 Notes </h2>
+    - [Note-taking](https://github.com/teeramaet/MySecondBrain-Note)
+  
 
 <h2> 🤳 Connect with me:</h2>
 
